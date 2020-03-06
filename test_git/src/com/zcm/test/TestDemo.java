@@ -8,7 +8,8 @@ public class TestDemo {
        int j =2;
         int add = add(i, j);
         System.out.println(add);
-
+        //克隆之后的第一次更新
+        System.out.println("java真的很有意思");
 
     }
 
